@@ -82,7 +82,7 @@ This project uses the **Telco Customer Churn Dataset** available on [Kaggle](htt
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/customer-churn-analysis.git
+   git clone https://github.com/Mayank-2545/saas-churn-prediction.git
    cd customer-churn-analysis
    ```
 2. Install dependencies:
